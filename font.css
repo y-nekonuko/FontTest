@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400;500;700;800;900&family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Rampart+One&family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&family=Zen+Kurenaido&family=Zen+Old+Mincho:wght@400;700;900&display=swap');
+
+.weight1 {
+    font-weight: 100;
+}
+
+.weight2 {
+    font-weight: 200;
+}
+
+.weight3 {
+    font-weight: 300;
+}
+
+.weight4 {
+    font-weight: 400;
+}
+
+.weight5 {
+    font-weight: 500;
+}
+
+.weight6 {
+    font-weight: 600;
+}
+
+.weight7 {
+    font-weight: 700;
+}
+
+.weight8 {
+    font-weight: 800;
+}
+
+.weight9 {
+    font-weight: 900;
+}
+
+.Zen_Kurenaido {
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+.Zen_Old_Mincho {
+    font-family: 'Zen Old Mincho', serif;
+}
+
+.Zen_Kaku_Gothic_New {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+.Noto_Sans_JP {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.Zen_Kaku_Gothic_Antique {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.M_PLUS_1p {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.M_PLUS_Rounded_1c {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.Rampart_One {
+    font-family: 'Rampart One', cursive;
+}
