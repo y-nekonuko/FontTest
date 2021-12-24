@@ -3,24 +3,64 @@
     "css": "Zen_Kurenaido",
     "name": "Zen Kurenaido",
     "type": "Sans Serif：サンセリフ・フォント",
-    "description_JP": "Zen Kurenaidoは、手書きの趣味を持つ新しいスタイルの日本語フォントです。<br>デザインから筆のような要素を省き、文字の骨だけを残し、ボールペンの手書き文字の印象を与えました。",
-    "description": "Zen Kurenaido is a new style of Japanese font with handwritten taste.<br>Omitted the brush-like elements from the design and left only with the bone of the letter,<br>resulting in a impression of ballpoint handwritten letters.",
+    "description_JP": "Zen Kurenaidoは、手書きの趣味を持つ新しいスタイルの日本語フォントです。デザインから筆のような要素を省き、文字の骨だけを残し、ボールペンの手書き文字の印象を与えました。",
+    "description": "Zen Kurenaido is a new style of Japanese font with handwritten taste.Omitted the brush-like elements from the design and left only with the bone of the letter,resulting in a impression of ballpoint handwritten letters.",
     "weight":[4]
   },
   {
     "css": "Zen_Old_Mincho",
     "name": "Zen Old Mincho",
     "type": "Serif：セリフ・フォント",
-    "description_JP": "Zen Old Minchoは、基本的なテキストスタイルの日本のセリフ（明朝）ファミリーです。<br>このフォントファミリは、ウェイト「NR」から始まり、膨大な需要のために残りのウェイトを追加しました。<br>幅広い重みは、テキストの使用法だけでなく、より多くのさまざまなシーンやメディアを提供する可能性があります。",
-    "description": "Zen Old Mincho is a basic text style Japanese serif (Mincho) family. <br>This font family started with the weight “NR”, and added the rest of the weights due to huge demand. <br>Wide range of weights could offer not only the text usage but also more various scenes and media.",
+    "description_JP": "Zen Old Minchoは、基本的なテキストスタイルの日本のセリフ（明朝）ファミリーです。このフォントファミリは、ウェイト「NR」から始まり、膨大な需要のために残りのウェイトを追加しました。幅広い重みは、テキストの使用法だけでなく、より多くのさまざまなシーンやメディアを提供する可能性があります。",
+    "description": "Zen Old Mincho is a basic text style Japanese serif (Mincho) family. This font family started with the weight “NR”, and added the rest of the weights due to huge demand. Wide range of weights could offer not only the text usage but also more various scenes and media.",
     "weight":[4,7,9]
   },
   {
-    "css": "",
-    "name": "",
-    "type": "",
-    "description_JP": "",
-    "description": "",
-    "weight":[1]
+    "css": "Zen_Kaku_Gothic_New",
+    "name": "Zen Kaku Gothic New",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "Zen Kaku Gothic Nは、日本の基本的なサンセリフ（ゴシック体）のファミリーです。 このフォントを使えば、専門的な細かいアレンジをしなくても、繊細な組版を表現することができます。 ユニークでシンプルなデザインのため、自然に高い読みやすさを実現します。 使いやすく、読みやすいフォントです。",
+    "description": "Zen Kaku Gothic N is a basic Japanese san serif (Gothic) family. With this font, you can express fine typesetting without any professional detailed arrangements. Because of the unique yet simple design, it gives naturally high legibility. Easy to use and read.",
+    "weight":[3,4,5,7,9]
+  },
+  {
+    "css": "Zen_Kaku_Gothic_Antique",
+    "name": "Zen Kaku Gothic Antique",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "Zen Kaku Gothic Aは、クラシカルでシンプルかつスタイリッシュなサンセリフ書体です。 オーソドックスな書体デザインで可読性に優れています。 タイトル、本文、キャプションなど、様々な用途にお使いいただけます。",
+    "description": "Zen Kaku Gothic A is a classical yet simple and stylish sans serif family. Highly legible due to orthodox letterform design. Great for various usage, from title to text, and even caption.",
+    "weight":[3,4,5,7,9]
+  },
+  {
+    "css": "M_PLUS_1p",
+    "name": "M PLUS 1p",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "このセット「M+ 1p」は、プロポーショナルな欧文と全角固定の日本語、そしてThinからBlackまでの7種類のウェイトのフォントである。 カナは、直線と手書きの曲線が対照的に描かれている。 欧文は、洗練された落ち着いたデザインを目指しています。 グリフ数は8,676です。 本製品は、2016-04-12にアップストリームでリリースされたVersion 1.061gを、Google Fontsが若干修正したものです。 現在はSIL Open Font Licenseでリリースされています。",
+    "description": "This set, M+ 1p, are fonts with proportional Latin and fixed-fullwidth Japanese, and 7 weights from Thin to Black. The Kana have contrasting straight lines and hand-drawn curves. The Latin is aimed to be a sophisticated and relaxed design. 8,676 glyphs. This is Version 1.061g, released upstream on 2016-04-12, and slightly modified by Google Fonts. Now released under the SIL Open Font License.",
+    "weight":[1,3,4,5,7,8,9]
+  },
+  {
+    "css": "M_PLUS_Rounded_1c",
+    "name": "M PLUS Rounded 1c",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "このセット「Rounded M+ 1c」は、プロポーショナルな欧文と全角固定の日本語、そしてThinからBlackまでの7つのウェイトのフォントです。かなは、伝統的な少しカーブしたストロークを採用。欧文はテキスト組版に適したプロポーションに最適化されています。 8,546グリフ。本製品は、2015-05-29にアップストリームでリリースされたVersion v1.059gを、Google Fontsが若干修正したものです。現在はSIL Open Font Licenseでリリースされています。",
+    "description": "This set, Rounded M+ 1c, are fonts with proportional Latin and fixed-fullwidth Japanese, and 7 weights from Thin to Black. The Kana have traditional slightly curved strokes. The Latin is optimized to be well-proportioned for text typesetting. 8,546 glyphs. This is Version v1.059g, released upstream on 2015-05-29, and slightly modified by Google Fonts. Now released under the SIL Open Font License.",
+    "weight":[1,3,4,5,7,8,9]
+  },
+  {
+    "css": "Noto_Sans_JP",
+    "name": "Noto Sans Japanese",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "Notoは現代および古代のすべての言語で書くための、グローバルなフォントコレクションです。 Noto Sans JPは、日本語および日本で使用されているその他の言語のための無変調（サンセリフ）デザインです。 ひらがな、カタカナ、漢字に対応しています。 また、ラテン語、キリル文字、ギリシャ語、ハングルにも対応しています。 グリフ数は65,535。",
+    "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans JP is an unmodulated (“sans serif”) design for the Japanese language and other languages used in Japan. It covers Hiragana, Katakana and Kanji. It also supports Latin, Cyrillic, Greek and Hangul. It has 65,535 glyphs.",
+    "weight":[1,3,4,5,7,9]
+  },
+  {
+    "css": "Rampart_One",
+    "name": "Noto Sans Japanese",
+    "type": "Cursive：筆記体(直訳)",
+    "description_JP": "Rampartは、立体的なブロックをイメージして作られたユニークなアウトラインシャドウフォントです。インパクトを与えたい場合や、力強さや安定感を表現したい場合に最適です。",
+    "description": "Rampart is a unique outline shadow font made in the image of 3-D blocks. It is best used for added impact or to demonstrate strength and stability.",
+    "weight":[4]
   }
 ]
