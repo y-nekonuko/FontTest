@@ -1,0 +1,26 @@
+[
+  {
+    "css": "Zen_Kurenaido",
+    "name": "Zen Kurenaido",
+    "type": "Sans Serif：サンセリフ・フォント",
+    "description_JP": "Zen Kurenaidoは、手書きの趣味を持つ新しいスタイルの日本語フォントです。<br>デザインから筆のような要素を省き、文字の骨だけを残し、ボールペンの手書き文字の印象を与えました。",
+    "description": "Zen Kurenaido is a new style of Japanese font with handwritten taste.<br>Omitted the brush-like elements from the design and left only with the bone of the letter,<br>resulting in a impression of ballpoint handwritten letters.",
+    "weight":[4]
+  },
+  {
+    "css": "Zen_Old_Mincho",
+    "name": "Zen Old Mincho",
+    "type": "Serif：セリフ・フォント",
+    "description_JP": "Zen Old Minchoは、基本的なテキストスタイルの日本のセリフ（明朝）ファミリーです。<br>このフォントファミリは、ウェイト「NR」から始まり、膨大な需要のために残りのウェイトを追加しました。<br>幅広い重みは、テキストの使用法だけでなく、より多くのさまざまなシーンやメディアを提供する可能性があります。",
+    "description": "Zen Old Mincho is a basic text style Japanese serif (Mincho) family. <br>This font family started with the weight “NR”, and added the rest of the weights due to huge demand. <br>Wide range of weights could offer not only the text usage but also more various scenes and media.",
+    "weight":[4,7,9]
+  },
+  {
+    "css": "",
+    "name": "",
+    "type": "",
+    "description_JP": "",
+    "description": "",
+    "weight":[1]
+  }
+]
